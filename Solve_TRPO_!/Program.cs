@@ -33,6 +33,8 @@ namespace Solve_TRPO__
 
             Console.WriteLine("Изменения для GIT");
 
+            Console.WriteLine("2 Изменения для GIT");
+
             Console.ReadKey();
         }
     }
