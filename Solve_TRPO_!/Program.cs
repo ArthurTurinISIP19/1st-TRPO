@@ -31,6 +31,8 @@ namespace Solve_TRPO__
 
             Console.WriteLine("Сколько получите = " + n);
 
+            Console.WriteLine("Изменения для GIT");
+
             Console.ReadKey();
         }
     }
