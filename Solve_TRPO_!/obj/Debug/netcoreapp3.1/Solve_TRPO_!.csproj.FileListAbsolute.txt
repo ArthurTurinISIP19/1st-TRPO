@@ -1,0 +1,13 @@
+D:\TRPO\TRPO_1\Solve_TRPO_!\bin\Debug\netcoreapp3.1\Solve_TRPO_!.exe
+D:\TRPO\TRPO_1\Solve_TRPO_!\bin\Debug\netcoreapp3.1\Solve_TRPO_!.deps.json
+D:\TRPO\TRPO_1\Solve_TRPO_!\bin\Debug\netcoreapp3.1\Solve_TRPO_!.runtimeconfig.json
+D:\TRPO\TRPO_1\Solve_TRPO_!\bin\Debug\netcoreapp3.1\Solve_TRPO_!.runtimeconfig.dev.json
+D:\TRPO\TRPO_1\Solve_TRPO_!\bin\Debug\netcoreapp3.1\Solve_TRPO_!.dll
+D:\TRPO\TRPO_1\Solve_TRPO_!\bin\Debug\netcoreapp3.1\Solve_TRPO_!.pdb
+D:\TRPO\TRPO_1\Solve_TRPO_!\obj\Debug\netcoreapp3.1\Solve_TRPO_!.csprojAssemblyReference.cache
+D:\TRPO\TRPO_1\Solve_TRPO_!\obj\Debug\netcoreapp3.1\Solve_TRPO_!.AssemblyInfoInputs.cache
+D:\TRPO\TRPO_1\Solve_TRPO_!\obj\Debug\netcoreapp3.1\Solve_TRPO_!.AssemblyInfo.cs
+D:\TRPO\TRPO_1\Solve_TRPO_!\obj\Debug\netcoreapp3.1\Solve_TRPO_!.csproj.CoreCompileInputs.cache
+D:\TRPO\TRPO_1\Solve_TRPO_!\obj\Debug\netcoreapp3.1\Solve_TRPO_!.dll
+D:\TRPO\TRPO_1\Solve_TRPO_!\obj\Debug\netcoreapp3.1\Solve_TRPO_!.pdb
+D:\TRPO\TRPO_1\Solve_TRPO_!\obj\Debug\netcoreapp3.1\Solve_TRPO_!.genruntimeconfig.cache
